@@ -7,6 +7,7 @@ const Constraint=Matter.Constraint;
 
 var treeObj, stoneObj,groundObject, launcherObject;
 var mango1;
+var stone;
 var world,boy;
 
 function preload(){
